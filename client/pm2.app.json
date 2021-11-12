@@ -1,0 +1,9 @@
+{
+   "apps": [
+      {
+         "name": "ibs-dashboard-production",
+         "script": "npm",
+         "args": "run serve"
+      }
+   ]
+}

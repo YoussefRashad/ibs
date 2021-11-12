@@ -1,0 +1,7 @@
+{
+   "apps": [{
+      "name": "ibs-app-production",
+      "script": "npm",
+      "args": "start"
+   }]
+}

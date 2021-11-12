@@ -1,0 +1,1 @@
+{"message":"::ffff:127.0.0.1 - - [04/Oct/2020:22:45:37 +0000] \"GET /logo192.png HTTP/1.1\" 404 150 \"http://localhost:3000/ticket/5e7f9242988a736f24d304ef\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36\"\n","level":"info"}
